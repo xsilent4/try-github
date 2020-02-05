@@ -3,3 +3,6 @@ belajar git dan github
 - cara menggunakan github
 - cara membuat repository
 - cara melakukan branch
+- cara melakukan merge
+- cara melakukan pull
+
