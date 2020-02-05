@@ -4,5 +4,5 @@ belajar git dan github
 - cara membuat repository
 - cara melakukan branch
 - cara melakukan merge
-- cara melakukan pull
+- cara melakukan pull dan push
 
